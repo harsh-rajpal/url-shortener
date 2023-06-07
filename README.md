@@ -1,5 +1,5 @@
-# url-shortner using Express, MongoDB, NodeJS.
-This is a simple url-shortner using Express, MongoDB, NodeJS.<br>
+# URL-Shortener using Express, MongoDB, NodeJS.
+This is a powerful and user-friendly URL shortener application built with Node.js, Express, MongoDB, Nodemon, and shortID. It allows you to convert long URLs into short and unique links effortlessly.<br>
 <br><br>
 Working of code using Postman:
 ![image](https://github.com/harsh-rajpal/url-shortner/assets/79400577/838c662c-ec99-4ffa-b22b-8ac4643682b2)
